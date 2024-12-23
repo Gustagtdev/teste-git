@@ -46,7 +46,7 @@ elif media < 4.0:
     print(f"{aluno3} está reprovado")
 
 if media4 >= 6.0:
-    print(f"{aluno3} está aprovado")
+    print(f"{aluno4} está aprovado")
 elif 6.0 > media4 > 4.0:
     print(f"{aluno4} está de recuperação")
 elif media < 4.0:
