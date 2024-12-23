@@ -1,4 +1,4 @@
-'''Faça um programa que realize a média de 2 notas de 3 estudantes e faça os requisitos de aprovação,
+'''Faça um programa que realize a média de 2 notas de 4 estudantes e faça os requisitos de aprovação,
 recuperação e reprovação.
 Este projeto possui o intuito em aprimorar minhas habilidades com a ferramenta Git.'''
 aluno1= "Igor"
